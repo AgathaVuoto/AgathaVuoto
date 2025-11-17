@@ -4,7 +4,7 @@
 - 🎨 Levo isso como um hobby, mas aceito propostas profissionais
 - 🎓 Além da programação, me aventuro no mundo da edição de vídeo (Da vinci Resolve), modelagem 3D (Blender) e produção músical (Ableton)
 - ⚡ Em meu ich.io, tenho vários projetos feitos no gamemaker (gml) e na unity (c#), com toda arte, modelos e músicas feitas por mim
-- 📫 Contato: agathavuoto@gmail.com
+- 📫 Contato: agathavuoto@gmail.com // 
 
  <!-- colocar todos os portifólios neste projeto, não apenas o de programação -->
 
